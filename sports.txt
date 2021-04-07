@@ -7,4 +7,6 @@ football
 a
 b
 c
+chess
+carrom
 
